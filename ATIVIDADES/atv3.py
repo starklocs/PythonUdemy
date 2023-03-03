@@ -1,0 +1,6 @@
+cpf = input("Insira o CPF:")
+nome = input("Insira o nome:")
+estadoCivil = input("Insira o Estado Civil:")
+print('CPF: ', cpf)
+print('Nome: ', nome)
+print('Estado Civil: ', estadoCivil)
